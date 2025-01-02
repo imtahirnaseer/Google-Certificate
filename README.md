@@ -9,6 +9,14 @@ This project is a simple HTML template for a Google Career Certificate. The cert
 - **Print-Ready**: The template includes print-specific styles to ensure the certificate looks professional when printed.
 - **Signature Section**: Includes a section for signatures with pre-defined images for Sundar Pichai and Thomas Kurian.
 
+  
+## Access
+
+- **Live Demo**: [Google Certificate Live Demo](https://imtahirnaseer.github.io/Google-Certificate/)
+- **Source Code**: [GitHub Repository](https://github.com/imtahirnaseer/Google-Certificate/)
+- **Project Link**: [Project on GitHub](https://github.com/imtahirnaseer/Google-Certificate/)
+- **Video Link**: [YouTube Video](https://youtu.be/Y-VulxYJQ6I)
+
 ## Usage
 
 1. Clone the repository to your local machine.
